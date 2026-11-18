@@ -48,8 +48,6 @@ The dashboard layout was created using a custom PNG background designed separate
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
 ![Customer Shopping Behavior Dashboard](customer-shopping-dashboard.png)
 
 ## 👩‍💻 About
