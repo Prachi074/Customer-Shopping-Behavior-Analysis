@@ -48,7 +48,7 @@ The dashboard layout was created using a custom PNG background designed separate
 
 ## 📸 Dashboard Preview
 
-![customer-shopping-Dashboard](images/customer-shopping-dashboard.png)
+![customer-shopping-dashboard.png](images/customer-shopping-dashboard.png)
 
 ## 👩‍💻 About
 This project is part of my Data Analytics learning journey, where I applied Python, SQL, and Power BI to analyze customer shopping behavior and develop an interactive business dashboard.
